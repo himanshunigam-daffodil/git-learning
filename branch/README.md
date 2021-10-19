@@ -14,3 +14,8 @@ git branch --list
 ```shell
 git checkout <branch-name>
 ```
+
+### How to fetch remote changes
+```shell
+git fetch
+```

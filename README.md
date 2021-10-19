@@ -32,3 +32,7 @@ git add branch/
 ```shell
 git diff <file-path>
 ```
+### How to commit
+```shell
+git commit -a -m "Commit git branching commands"
+```
