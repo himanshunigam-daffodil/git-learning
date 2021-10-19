@@ -14,3 +14,8 @@ git branch --list
 ```shell
 git checkout <branch-name>
 ```
+
+### How to rename local branch
+```shell
+git branch -m <branch-name>
+```
