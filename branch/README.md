@@ -19,3 +19,13 @@ git checkout <branch-name>
 ```shell
 git branch -m <branch-name>
 ```
+
+### How to delete branch
+* local
+    ```shell
+    git branch -d <branch-name>
+    ```
+* remote
+    ```shell
+    git push origin --delete <branch-name>
+    ```
