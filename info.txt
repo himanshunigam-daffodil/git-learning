@@ -1,8 +1,9 @@
 Basic git steps
-1. Clone
-2. Commit
-3. Pull
-4. Push
-5. Pull request
-6. Review Pull request
-7. Merge Pull request
+1. Clone repository.
+2. Create new branch with ticket number from the reference branch.
+2. Commit code changes in local branch.
+3. Pull remote reference branch changes.
+4. Push changes.
+5. Create a pull request.
+6. Review Pull request.
+7. Merge Pull request.
