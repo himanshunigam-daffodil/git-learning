@@ -40,11 +40,6 @@ git checkout <file-name>
 git checkout <dir-path>
 ```
 
-### How to revert file changes
-```shell
-git checkout branch.txt
-```
-
 ### How to view difference
 ```shell
 git diff <file-path>
