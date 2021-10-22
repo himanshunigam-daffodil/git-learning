@@ -1,8 +1,8 @@
 Basic git steps
-1. Clone
-2. Commit
-3. Pull
-4. Push
-5. Pull request
-6. Review Pull request
-7. Merge Pull request
+1. Clone source code,
+2. Pull.
+3. Commit code locally.
+4. Push.
+5. Pull request.
+6. Review Pull request.
+7. Merge Pull request.
