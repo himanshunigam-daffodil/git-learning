@@ -30,8 +30,14 @@ git remote --v
 
 ### How to add file/directory
 ```shell
-git add branch.txt
-git add branch/
+git add <file-name>
+git add <dir-path>
+```
+
+### How to undo/revert file changes
+```shell
+git checkout <file-name>
+git checkout <dir-path>
 ```
 
 ### How to view difference
