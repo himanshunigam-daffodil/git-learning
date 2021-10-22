@@ -1,0 +1,5 @@
+Basic git steps
+1. Clone
+2. Commit
+3. Pull
+4. Push

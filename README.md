@@ -63,3 +63,6 @@ git pull <remote-name> <branch-name>
 ```shell
 git push <remote-name> <branch-name>
 ```
+
+## How to revert the change on particular file
+ git checkout --
