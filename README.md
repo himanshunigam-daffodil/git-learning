@@ -68,4 +68,13 @@ git pull <remote-name> <branch-name>
 ### How to push changes
 ```shell
 git push <remote-name> <branch-name>
+<<<<<<< HEAD
 ```
+
+## How to revert the change on particular file
+ git checkout --
+||||||| a0b1d66
+```
+=======
+```
+>>>>>>> 6891e0874e2cb9bfbbb4bd4ce683f6aea934b6df
