@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-Basic git steps
-1. Clone
-2. Commit
-3. Pull
-4. Push
-||||||| 32896c2
-=======
 Basic git steps
 1. Clone
 2. Commit
@@ -14,4 +6,3 @@ Basic git steps
 5. Pull request
 6. Review Pull request
 7. Merge Pull request
->>>>>>> a0b1d66aa512e3d81b3580a671c6e9f685d0d45f
