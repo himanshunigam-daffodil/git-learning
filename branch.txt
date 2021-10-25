@@ -1,1 +1,5 @@
-This is basic branch file
+This the git attendees list:
+<Write your name here>
+<Write your name here>
+<Write your name here>
+<Write your name here>
