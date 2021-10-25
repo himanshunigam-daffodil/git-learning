@@ -1,5 +1,5 @@
-This the git attendees list:
+This is the git attendees list:
+Ritik Kanotra ritik.kanotra@unthinkable.co
 <Write your name here>
-<Write your name here>
-<Write your name here>
+Harsh Agarwal Harsh.agarwal@unthinkable.co
 <Write your name here>
