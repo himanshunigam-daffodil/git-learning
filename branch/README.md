@@ -27,5 +27,15 @@ git branch -m <branch-name>
     ```
 * remote
     ```shell
-    git push origin --delete <branch-name>
+    git push <remote-name> --delete <branch-name>
     ```
+
+### How to remove stale local branch (remove remote deleted branch from local)
+```shell
+git remote prune <remote-name>
+```
+
+### How to remove stale local branch (remove remote deleted branch from local)
+```shell
+git branch -u <remote-name>/<branch-name> <local-branch-name>
+```
