@@ -1,2 +1,5 @@
-This is basic branch file
+This is the git attendees list:
 Ritik Kanotra ritik.kanotra@unthinkable.co
+<Write your name here>
+<Write your name here>
+<Write your name here>
