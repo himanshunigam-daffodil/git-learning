@@ -1,5 +1,5 @@
-This the git attendees list:
-<Write your name here>
-<Write your name here>
+This is the git attendees list:
+Ritik Kanotra ritik.kanotra@unthinkable.co
+YASHRAJ DIGHE yashraj.dighe@unthinkable.co
 <Write your name here>
 <Write your name here>
