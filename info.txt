@@ -7,6 +7,3 @@ Basic git steps
 5. Create a pull request.
 6. Review Pull request.
 7. Merge Pull request.
-
-7. Merge Pull request.
-7. Merge Pull request.
