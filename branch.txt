@@ -1,4 +1,5 @@
 This is the git attendees list:
 Ritik Kanotra ritik.kanotra@unthinkable.co
 Vattsal Singhal vattsal.singhal@unthinkable.co
+YASHRAJ DIGHE yashraj.dighe@unthinkable.co
 
